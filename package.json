@@ -1,0 +1,15 @@
+{
+  "name": "nodeauthapi",
+  "version": "1.0.0",
+  "description": "Simple JWT based authorization sample to secure REST API.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "SenKumar",
+  "license": "Apache-2.0",
+  "dependencies": {
+    "express": "^4.16.3",
+    "jsonwebtoken": "^8.2.0"
+  }
+}
